@@ -1,1 +1,1 @@
-This is a readme for the static library project.
+This is the readme file for static library in C programming.
